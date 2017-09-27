@@ -1,12 +1,11 @@
 ---
 
-# Hello!
-## First slide
+# VR in the browser
+## Rigel Di Scala
 
 ---
 
-# Bye!
-## Second slide
+# A very brief history of VR
 
 ---
 
