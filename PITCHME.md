@@ -79,7 +79,7 @@ The pros get involved...
 
 ![](assets/corps.png)
 
----?image=assets/brains.png?size=contain
+---?image=assets/brains.png&size=contain
 
 ---
 
