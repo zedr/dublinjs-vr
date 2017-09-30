@@ -215,5 +215,22 @@ Low level approach
 ```
 
 ---
+game.js
+
+```javascript
+camera = new THREE.PerspectiveCamera(75, aspect, 0.1, 10000);
+// Apply VR stereo rendering to renderer.
+effect = new THREE.VREffect(renderer);
+effect.setSize(window.innerWidth / window.innerHeight);
+```
+```javascript
+vrDisplay = displays[0];
+vrDisplay.requestAnimationFrame(render);
+```
+```javascript
+effect.render(scene, camera);
+vrDisplay.requestAnimationFrame(render);
+```
+---
 
 # Questions?
