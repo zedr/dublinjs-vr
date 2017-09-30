@@ -49,9 +49,15 @@ Extremely expensive machines (£20,000 → £40,000)
  - High latency → Motion sickness |
  - Unattractive graphics |
 
----
+---?video=https://www.youtube.com/embed/v6t69mp0ZhE
 
-![](https://www.youtube.com/embed/v6t69mp0ZhE)
+### 1995-2012: VR Dark Ages
+
+Graphics tech makes rapid progress
+
+![](assets/lara.png)
+
+VR tech goes into a lull; becomes niche tech kept alive by ~~nerds~~ enthusiasts.
 
 ---
 
