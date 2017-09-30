@@ -47,8 +47,9 @@ Extremely expensive machines (£20,000 → £40,000)
 
  - Expensive |
  - High latency → Motion sickness |
- - Unattractive graphics → 
-    * Gourard shaded polygos === "state of the art" |
+ - Unattractive graphics |
+
+---?video=https://www.youtube.com/watch?v=v6t69mp0ZhE
 
 ---
 
