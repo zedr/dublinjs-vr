@@ -49,7 +49,9 @@ Extremely expensive machines (£20,000 → £40,000)
  - High latency → Motion sickness |
  - Unattractive graphics |
 
----?video=https://www.youtube.com/watch?v=v6t69mp0ZhE
+---
+
+![](https://www.youtube.com/watch?v=v6t69mp0ZhE)
 
 ---
 
