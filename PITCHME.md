@@ -69,7 +69,7 @@ Palmer Luckey crowdfunds the first new gen headset.
 
 ---
 
-The pros get involves...
+The pros get involved...
 
 ![](assets/pros.png)
 
@@ -79,7 +79,7 @@ The pros get involves...
 
 ![](assets/corps.png)
 
----?image=assets/brains.png
+---?image=assets/brains.png?size=contain
 
 ---
 
