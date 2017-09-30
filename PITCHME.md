@@ -119,7 +119,7 @@ The pros get involved...
 
 Is VR the tallest step in the progressive enhancement ladder?
 
-![](assets/webvrsupport.png)
+![](assets/chain.png)
 
 Source: unboring.net
 
