@@ -22,6 +22,8 @@
  - patents sold to Sun Microsystems
     - now owned by Oracle?
 
+![Logo](assets/jason.png)
+
 ---
 
 # Questions?
