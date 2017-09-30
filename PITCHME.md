@@ -37,4 +37,10 @@ Extremely expensive machines (£20,000 → £40,000)
 
 ---
 
+### 1992: "Lawnmower man"
+
+ - ![](assets/rott.png) on Rotten Tomatoes |
+
+---
+
 # Questions?
