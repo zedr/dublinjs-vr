@@ -41,7 +41,13 @@ Extremely expensive machines (£20,000 → £40,000)
 
 ![](assets/lawn.png)
 
- - 37% on Rotten Tomatoes |
+---
+
+### Problems with 90s VR tech
+
+ - Expensive |
+ - High latency → Motion sickness |
+ - Unattractive graphics → Gourard shaded polygos === "state of the art"
 
 ---
 
