@@ -5,7 +5,7 @@
 
 ---
 
-### A very brief history of VR
+### Origins of VR
 
 ---
 
