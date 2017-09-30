@@ -210,7 +210,7 @@ Low level approach
 <script src="libs/vendor/vr/webvr-polyfill.min.js"></script>
 <!-- A set of UI controls for entering VR mode. -->
 <script src="libs/vendor/vr/webvr-ui.min.js"></script>
-<!-- Finally, our game... ->
+<!-- Finally, our game... -->
 <script src="libs/app/game.js"></script>
 ```
 
