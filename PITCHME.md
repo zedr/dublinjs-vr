@@ -53,11 +53,33 @@ Extremely expensive machines (£20,000 → £40,000)
 
 ### 1995-2012: VR Dark Ages
 
-Graphics tech makes rapid progress
+Graphics tech makes rapid progress...
 
 ![](assets/lara.png)
 
-VR tech goes into a lull; becomes niche tech kept alive by ~~nerds~~ enthusiasts.
+while VR tech goes into a lull.
+
+---
+
+2009: Oculus Rift
+
+Palmer Luckey crowdfunds the first new gen headset.
+
+![](assets/oculus.png)
+
+---
+
+The pros get involves...
+
+![](assets/pros.png)
+
+---
+
+... and the big corporations
+
+![](assets/corps.png)
+
+---?image=assets/brains.png
 
 ---
 
