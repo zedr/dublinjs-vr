@@ -1,11 +1,11 @@
 ---
 
-### VR in the browser
+# VR in the browser
 #### Rigel Di Scala
 
 ---
 
-### Origins of VR
+## Origins of VR
 
 ---
 
