@@ -196,8 +196,6 @@ Low level approach
 <script src="libs/vendor/es6-promise/es6-promise.min.js"></script>
 <!-- three.js 3d library -->
 <script src="libs/vendor/three/three.min.js"></script>
-<!-- VRControls.js acquires positional information from connected VR devices 
-     and applies the transformations to a three.js camera object. -->
 ```
 
 ---
@@ -205,6 +203,8 @@ Low level approach
 index.html
 
 ```html
+<!-- VRControls.js acquires positional information from connected VR devices 
+     and applies the transformations to a three.js camera object. -->
 <script src="libs/vendor/vr/VRControls.js"></script>
 <!-- VREffect.js handles stereo camera setup and rendering. -->
 <script src="libs/vendor/vr/VREffect.js"></script>
