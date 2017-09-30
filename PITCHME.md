@@ -16,11 +16,11 @@
 
 ### 1983: "Virtual Reality"
 #### term introduced Jason Lanier
- - founded VPL Research
- - pioneered first consumer grade devices
- - went bankrupt
- - patents sold to Sun Microsystems
-    - now owned by Oracle?
+ - founded VPL Research |
+ - pioneered first consumer grade devices |
+ - went bankrupt |
+ - patents sold to Sun Microsystems |
+    - now owned by Oracle? |
 
 ![](assets/jason.png)
 
@@ -38,6 +38,8 @@ Extremely expensive machines (£20,000 → £40,000)
 ---
 
 ### 1992: "Lawnmower man"
+
+![](assets/lawn.png)
 
  - 37% on Rotten Tomatoes |
 
