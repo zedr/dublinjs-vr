@@ -51,7 +51,7 @@ Extremely expensive machines (£20,000 → £40,000)
 
 ---
 
-![](https://www.youtube.com/watch?v=v6t69mp0ZhE)
+![](https://www.youtube.com/embed/v6t69mp0ZhE)
 
 ---
 
