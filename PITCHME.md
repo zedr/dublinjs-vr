@@ -29,11 +29,11 @@
 ### 1985 → 199X: Virtuality & Elysium
 Extremely expensive machines (£20,000 → £40,000)
 
-+++?image=assets/virt1.png
++++?image=assets/virt1.png&size=contain
 
-+++?image=assets/virt2.png
++++?image=assets/virt2.png&size=contain
 
-+++?image=assets/virt3.png
++++?image=assets/virt3.png&size=contain
 
 ---
 
