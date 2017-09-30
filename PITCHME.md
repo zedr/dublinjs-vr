@@ -41,7 +41,6 @@ Extremely expensive machines (£20,000 → £40,000)
 
  - ![](assets/rott.png) on Rotten Tomatoes |
 
-
 ---
 
 # Questions?
