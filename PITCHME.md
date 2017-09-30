@@ -202,6 +202,8 @@ Low level approach
 
 ---
 
+index.html
+
 ```html
 <script src="libs/vendor/vr/VRControls.js"></script>
 <!-- VREffect.js handles stereo camera setup and rendering. -->
@@ -215,6 +217,7 @@ Low level approach
 ```
 
 ---
+
 game.js
 
 ```javascript
@@ -233,4 +236,6 @@ vrDisplay.requestAnimationFrame(render);
 ```
 ---
 
-# Questions?
+[DEMO](https://github.com/zedr/cordova_vr)
+
+---
