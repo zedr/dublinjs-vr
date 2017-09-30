@@ -119,7 +119,7 @@ The pros get involved...
 
 Is VR the tallest step in the progressive enhancement ladder?
 
-![](assets/chain.png)
+![](assets/webvrsupport.png)
 
 Source: unboring.net
 
@@ -158,7 +158,7 @@ Source: unboring.net
  - Library of reusable components
  - Developer tools, e.g. inspector
 
----?video=https://www.youtube.com/embed/kxrDfX07BGU&size=contain
+---?video=https://www.youtube.com/embed/kxrDfX07BGU
 
 ---
 
