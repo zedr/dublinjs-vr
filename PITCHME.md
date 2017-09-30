@@ -22,8 +22,16 @@
  - patents sold to Sun Microsystems
     - now owned by Oracle?
 
-![Logo](assets/jason.png)
+![](assets/jason.png)
 
 ---
+
+### 1985 → 199X: Virtuality & Elysium
+Extremely expensive machines (£20,000 → £40,000)
+
+![](assets/virt1.png)
+![](assets/virt1.png)
+![](assets/virt1.png)
+
 
 # Questions?
