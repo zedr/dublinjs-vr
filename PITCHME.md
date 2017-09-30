@@ -81,6 +81,83 @@ The pros get involved...
 
 ---?image=assets/brains.png&size=contain
 
+### New tech solves many problems ...
+
+ - Low latency |
+ - Better FOV |
+ - Sharper image |
+ - Realistic graphics |
+
+![](assets/solves.png)
+
+---
+
+### but not all of them:
+
+ - Motion sickness still an issue |
+ - Bulky headsets |
+ - Screens not high def enough |
+ - High end PC required |
+ - Flaky FPS support |
+ - No killer app yet |
+
+![](assets/screendoor.png)
+
+### VR is portable!
+
+![](assets/daydream.png)
+
+---
+
+### WebVR
+
+![](assets/webvrsupport.png)
+
+---
+
+Is VR the tallest step in the progressive enhancement ladder?
+
+![](assets/webvrsupport.png)
+
+Source: unboring.net
+
+---
+
+### Example: Sortie en mer
+
+![](assets/sortie.png)
+
+---
+
+### Example: Sherry FitzGerald
+
+![](assets/sherry.png)
+
+---
+
+### Things to consider for VR
+
+ - Content cannot be consumed anywhere
+ - Scenarios need to tailored to the capabilities
+ - **Performance must be consistent** 
+
+---
+
+### What to use?
+
+---
+
+### A-FRAME: VR web framework
+
+ - Build scenes using declarative markup
+ - Cross-platform
+ - Entity-component architecture
+ - Optimised for performance
+ - Library of reusable components
+ - Developer tools, e.g. inspector
+
+---?video=https://www.youtube.com/embed/kxrDfX07BGU&size=contain
+
 ---
 
 # Questions?
