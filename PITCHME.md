@@ -168,4 +168,47 @@ Source: unboring.net
 
 ---
 
+### Unity
+
+ - Uses a cut-down version of the engine for WebGL
+ - HTML5 + JavaScript
+ - Use the Unity IDE to create your game
+
+![](assets/unity.png)
+
+---
+
+### Three.js
+
+Low level approach
+
+ - Three.js + WebVR libraries & polyfills
+ - Check out my boilerplate on Github: https://github.com/zedr/cordova_vr
+
+![](assets/cordova.png)
+
+---
+
+```html
+<!-- Base configuration for the VR app -->
+<script src="libs/VRconfig.js"></script>
+<!-- A polyfill for Promises. Needed for IE and Edge. -->
+<script src="libs/vendor/es6-promise/es6-promise.min.js"></script>
+<!-- three.js 3d library -->
+<script src="libs/vendor/three/three.min.js"></script>
+<!-- VRControls.js acquires positional information from connected VR devices 
+     and applies the transformations to a three.js camera object. -->
+<script src="libs/vendor/vr/VRControls.js"></script>
+<!-- VREffect.js handles stereo camera setup and rendering. -->
+<script src="libs/vendor/vr/VREffect.js"></script>
+<!-- A polyfill for WebVR using the Device{Motion,Orientation}Event API. -->
+<script src="libs/vendor/vr/webvr-polyfill.min.js"></script>
+<!-- A set of UI controls for entering VR mode. -->
+<script src="libs/vendor/vr/webvr-ui.min.js"></script>
+<!-- Finally, our game... ->
+<script src="libs/app/game.js"></script>
+```
+
+---
+
 # Questions?
