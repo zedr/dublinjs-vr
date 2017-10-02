@@ -255,5 +255,3 @@ vrDisplay.requestAnimationFrame(render);
 ---
 
 [DEMO](https://github.com/zedr/cordova_vr)
-
----
