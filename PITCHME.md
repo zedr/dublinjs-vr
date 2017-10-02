@@ -56,7 +56,7 @@ Extremely expensive machines (£20,000 → £40,000)
 
 ---
 
-### 1995-2012: VR Dark Ages
+### 1995-2009: VR Dark Ages
 
 Graphics tech makes rapid progress...
 
@@ -110,6 +110,8 @@ The pros get involved...
 
 ![](assets/screendoor.png)
 
+---
+
 ### VR is portable!
 
 ![](assets/daydream.png)
@@ -117,6 +119,10 @@ The pros get involved...
 ---
 
 ### WebVR
+
+Open spec for VR in the browser.
+
+Polyfill available! Useful for Cardboard devices.
 
 ![](assets/webvrsupport.png)
 
