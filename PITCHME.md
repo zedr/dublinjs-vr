@@ -147,12 +147,13 @@ Source: unboring.net
 
 ---
 
-### Things to consider for VR
+### Things to consider for VR for mobile devices
 
  - Content cannot be consumed anywhere
  - Scenarios need to tailored to the capabilities
  - **Performance must be consistent** 
  - Photorealistic graphics not important
+ - Support both VR and non-VR devices
 
 ---
 
@@ -238,7 +239,7 @@ effect.setSize(window.innerWidth / window.innerHeight);
 navigator.getVRDisplays().then(function (displays) {
   vrDisplay = displays[0];
   vrDisplay.requestAnimationFrame(render);
-}
+});
 ```
 ```javascript
 effect.render(scene, camera);
