@@ -58,11 +58,10 @@ Extremely expensive machines (£20,000 → £40,000)
 
 ### 1995-2009: VR Dark Ages
 
-Graphics tech makes rapid progress...
+Graphics make rapid progress, unlike VR.
 
 ![](assets/lara.png)
 
-while VR tech goes into a lull.
 
 ---
 
@@ -153,6 +152,7 @@ Source: unboring.net
  - Content cannot be consumed anywhere
  - Scenarios need to tailored to the capabilities
  - **Performance must be consistent** 
+ - Photorealistic graphics not important
 
 ---
 
@@ -168,6 +168,7 @@ Source: unboring.net
  - Optimised for performance
  - Library of reusable components
  - Developer tools, e.g. inspector
+ - Made by Mozilla!
 
 ---
 
@@ -234,8 +235,10 @@ effect = new THREE.VREffect(renderer);
 effect.setSize(window.innerWidth / window.innerHeight);
 ```
 ```javascript
-vrDisplay = displays[0];
-vrDisplay.requestAnimationFrame(render);
+navigator.getVRDisplays().then(function (displays) {
+  vrDisplay = displays[0];
+  vrDisplay.requestAnimationFrame(render);
+}
 ```
 ```javascript
 effect.render(scene, camera);
