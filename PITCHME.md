@@ -2,6 +2,7 @@
 
 # VR in the browser
 #### Rigel Di Scala
+##### Arch at Wipro Digital
 
 ---
 
