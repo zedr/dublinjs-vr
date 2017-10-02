@@ -152,8 +152,14 @@ Source: unboring.net
  - Content cannot be consumed anywhere
  - Scenarios need to tailored to the capabilities
  - **Performance must be consistent** 
+
+---
+
+### Design tips
+
  - Photorealistic graphics not important
  - Support both VR and non-VR devices
+ - Focus on the experience
 
 ---
 
@@ -193,6 +199,7 @@ Low level approach
 
  - Three.js + WebVR libraries & polyfills
  - Check out my boilerplate on Github: https://github.com/zedr/cordova_vr
+ - Use BufferGeometries whenever you can
 
 ![](assets/cordova.png)
 
