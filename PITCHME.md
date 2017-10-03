@@ -215,12 +215,10 @@ Based on the "Memory Palace" technique.
 
 ### The Plan
 
- 1. Get 'em addicted to a free taster on the Web
- 2. Sell 'em the full version on Steam/GOG/Play/etc.
- 3. ???
- 4. PROFIT!!!
-
- *Remember Minecraft?*
+ - Get 'em easily addicted to a demo on the Web |
+ - Sell 'em the full version |
+ - ??? |
+ - PROFIT!!! |
 
 ---
 
