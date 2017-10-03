@@ -156,9 +156,9 @@ Source: unboring.net
 
 ---
 
-### Example 2: Sherry FitzGerald
+### Example 2: A new e-learning portal
 
-E-learning platform based on the "Memory Palace" technique.
+Based on the "Memory Palace" technique.
 
 ![](assets/moonwalking.png)
 ![](assets/memorypalace.png)
@@ -178,7 +178,7 @@ E-learning platform based on the "Memory Palace" technique.
 
  - Photorealistic graphics not important
  - Support both VR and non-VR devices
- - Focus on the experience
+ - Focus on the experience (audio, sense of scale)
 
 ---
 
@@ -205,7 +205,7 @@ E-learning platform based on the "Memory Palace" technique.
 ### Unity
 
  - Uses a cut-down version of the engine for WebGL
- - HTML5 + JavaScript
+ - Export to HTML5 + JavaScript
  - Use the Unity IDE to create your game
 
 ![](assets/unity.png)
@@ -224,10 +224,10 @@ E-learning platform based on the "Memory Palace" technique.
  - Send a link! |
  - (Electron|Cordova) + WebVR + $APP_STORE |
 
- - Get 'em addicted to a free taster on the Web |
- - Sell 'em the full version on Steam/GOG/Play/etc. |
- - ??? |
- - PROFIT!!! |
+ 1. Get 'em addicted to a free taster on the Web |
+ 2. Sell 'em the full version on Steam/GOG/Play/etc. |
+ 3. ??? |
+ 4. PROFIT!!! |
 
 ---
 
@@ -237,7 +237,7 @@ Low level approach
 
  - Three.js + WebVR libraries & polyfills
  - Check out my boilerplate on Github: https://github.com/zedr/cordova_vr
- - Use BufferGeometries whenever you can
+ - Tip: BufferGeometries whenever you can
 
 ![](assets/cordova.png)
 
