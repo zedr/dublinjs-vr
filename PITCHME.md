@@ -113,7 +113,7 @@ The pros get involved...
  - Screens not high def enough |
  - High end PC required |
  - Flaky FPS support |
- - No killer app yet |
+ - No killer app yet (maybe Elite Dangerous)|
 
 ![](assets/screendoor.png)
 
