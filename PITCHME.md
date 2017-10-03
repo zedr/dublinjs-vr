@@ -114,6 +114,7 @@ The pros get involved...
 ### VR is portable!
 
 ![](assets/daydream.png)
+![](assets/gearvr.png)
 
 ---
 
