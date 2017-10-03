@@ -136,15 +136,24 @@ Source: unboring.net
 
 ---
 
-### Example: Sortie en mer
+### Example 1: Sortie en mer
 
 ![](assets/sortie.png)
 
 ---
 
-### Example: Sherry FitzGerald
+### Example 2: Sherry FitzGerald
 
 ![](assets/sherry.png)
+
+---
+
+### Example 2: Sherry FitzGerald
+
+E-learning platform based on the "Memory Palace" technique.
+
+![](assets/moonwalking.png)
+![](assets/memorypalace.png)
 
 ---
 
@@ -152,7 +161,8 @@ Source: unboring.net
 
  - Content cannot be consumed anywhere
  - Scenarios need to tailored to the capabilities
- - **Performance must be consistent** 
+ - **Performance must be consistent**
+ - Always target 90FPS
 
 ---
 
@@ -191,6 +201,37 @@ Source: unboring.net
  - Use the Unity IDE to create your game
 
 ![](assets/unity.png)
+
+---
+
+### Other frameworks
+
+ - ReactVR
+ - BabylonJS
+
+---
+
+### How do I load assets?
+
+ - Loaders for Wavefront OBJ/MTL, FBX, 3DS, etc |
+ - glTF recommended: "the JPEG of VR" |
+    - JSON based |
+    - Can use external binary blobs |
+    - Supports GPU data types ("in-engine data") |
+
+![](https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/GlTF_Official_Logo.svg/1000px-GlTF_Official_Logo.svg.png)
+
+---
+
+### How do I ship my VR app?
+
+ - Send a link! |
+ - Electron + WebVR + $APP_STORE |
+
+ - Get 'em addicted to a free taster on the Web |
+ - Sell 'em the full version on Steam/GOG/Play/etc. |
+ - ??? |
+ - PROFIT!!! |
 
 ---
 
