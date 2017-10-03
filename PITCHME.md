@@ -4,7 +4,6 @@
 ## Rigel Di Scala
 ### Arch at Wipro Digital
 
-![](assets/wipro.png)
 ---
 
 ## Origins of VR
