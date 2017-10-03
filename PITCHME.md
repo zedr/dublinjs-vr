@@ -181,7 +181,7 @@ Based on the "Memory Palace" technique.
   </body>
 ```
 
-![](assets/aframe.png)
+![](assets/a-frame.png)
 
 ---
 
