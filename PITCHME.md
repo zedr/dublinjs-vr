@@ -76,20 +76,7 @@ Palmer Luckey crowdfunds the first new gen headset.
 
 ---
 
-### Outstanding problems
-
- - Motion sickness still an issue |
- - Bulky headsets |
- - Screens not high def enough |
- - High end PC required |
- - Flaky FPS support |
- - No killer app yet (maybe Elite Dangerous)|
-
-![](assets/screendoor.png)
-
----
-
-### But... VR is now portable!
+### And now VR is portable!
 
 ![](assets/daydream.png)
 ![](assets/gearvr.png)
