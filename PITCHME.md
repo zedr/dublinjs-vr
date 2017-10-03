@@ -208,13 +208,13 @@ Based on the "Memory Palace" technique.
 
 ### How do I ship my VR app?
 
- - Send a link! |
- - (Electron|Cordova) + WebVR + $APP_STORE |
+ - Send a link!
+ - (Electron|Cordova) + WebVR + $APP_STORE
 
- 1. Get 'em addicted to a free taster on the Web |
- 2. Sell 'em the full version on Steam/GOG/Play/etc. |
- 3. ??? |
- 4. PROFIT!!! |
+ 1. Get 'em addicted to a free taster on the Web
+ 2. Sell 'em the full version on Steam/GOG/Play/etc.
+ 3. ???
+ 4. PROFIT!!!
 
 ---
 
