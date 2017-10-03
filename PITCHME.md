@@ -6,7 +6,7 @@
 
 ---
 
-## Origins of VR
+## The origins of VR
 
 ---
 
@@ -17,11 +17,6 @@
 
 ### 1983: "Virtual Reality"
 #### term introduced Jason Lanier
- - founded VPL Research |
- - pioneered first consumer grade devices |
- - went bankrupt |
- - patents sold to Sun Microsystems |
-    - now owned by Oracle? |
 
 ![](assets/jason.png)
 
@@ -81,32 +76,7 @@ Palmer Luckey crowdfunds the first new gen headset.
 
 ---
 
-The pros get involved...
-
-![](assets/pros.png)
-
----
-
-... and the big corporations
-
-![](assets/corps.png)
-
----?image=assets/brains.png&size=contain
-
----
-
-### New tech solves many problems ...
-
- - Low latency |
- - Better FOV |
- - Sharper image |
- - Realistic graphics |
-
-![](assets/solves.png)
-
----
-
-### but not all of them:
+### Outstanding problems
 
  - Motion sickness still an issue |
  - Bulky headsets |
@@ -119,7 +89,7 @@ The pros get involved...
 
 ---
 
-### VR is portable!
+### But... VR is now portable!
 
 ![](assets/daydream.png)
 ![](assets/gearvr.png)
@@ -144,19 +114,19 @@ Source: unboring.net
 
 ---
 
-### Example 1: Sortie en mer
+### Example 1: Boost immersiveness
 
 ![](assets/sortie.png)
 
 ---
 
-### Example 2: Sherry FitzGerald
+### Example 2: VR for sense of scale
 
 ![](assets/sherry.png)
 
 ---
 
-### Example 2: A new e-learning portal
+### Example 3: More effective learning
 
 Based on the "Memory Palace" technique.
 
@@ -165,7 +135,7 @@ Based on the "Memory Palace" technique.
 
 ---
 
-### Things to consider for VR for mobile devices
+### Things to consider
 
  - Content cannot be consumed anywhere
  - Scenarios need to tailored to the capabilities
@@ -195,6 +165,23 @@ Based on the "Memory Palace" technique.
  - Library of reusable components
  - Developer tools, e.g. inspector
  - Made by Mozilla!
+
+---
+
+### A-FRAME example
+
+```<body>
+    <a-scene>
+      <a-box position="-1 0.5 -3" rotation="0 45 0" color="#4CC3D9"></a-box>
+      <a-sphere position="0 1.25 -5" radius="1.25" color="#EF2D5E"></a-sphere>
+      <a-cylinder position="1 0.75 -3" radius="0.5" height="1.5" color="#FFC65D"></a-cylinder>
+      <a-plane position="0 0 -4" rotation="-90 0 0" width="4" height="4" color="#7BC8A4"></a-plane>
+      <a-sky color="#ECECEC"></a-sky>
+    </a-scene>
+  </body>
+```
+
+![](assets/aframe.png)
 
 ---
 
