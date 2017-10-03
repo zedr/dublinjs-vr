@@ -44,6 +44,14 @@ Extremely expensive machines (£20,000 → £40,000)
 
 ---
 
+### 1992: Neil Stephenson's Snow Crash
+
+Describes the "Metaverse", a collective virtual world accessed using terminals and headsets, experienced in first-person 3D.
+
+![](assets/metaverse.png)
+
+---
+
 ### Problems with 90s VR tech
 
  - Expensive |
@@ -211,22 +219,10 @@ E-learning platform based on the "Memory Palace" technique.
 
 ---
 
-### How do I load assets?
-
- - Loaders for Wavefront OBJ/MTL, FBX, 3DS, etc |
- - glTF recommended: "the JPEG of VR" |
-    - JSON based |
-    - Can use external binary blobs |
-    - Supports GPU data types ("in-engine data") |
-
-![](https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/GlTF_Official_Logo.svg/1000px-GlTF_Official_Logo.svg.png)
-
----
-
 ### How do I ship my VR app?
 
  - Send a link! |
- - Electron + WebVR + $APP_STORE |
+ - (Electron|Cordova) + WebVR + $APP_STORE |
 
  - Get 'em addicted to a free taster on the Web |
  - Sell 'em the full version on Steam/GOG/Play/etc. |
